@@ -22,7 +22,7 @@ layout:
 
 如果需要获取更多官方信息可以关注微信公众号：华二国际课程班
 
-![EFZ-GKB公众号](https://smms.app/image/Qi3Mk2fYTZpx8Pv)
+![EFZ-GKB公众号](https://s2.loli.net/2024/06/25/Qi3Mk2fYTZpx8Pv.png)
 
 来自编者：希望每一位阅读EFZ国际课程101的同学都能享受在国课班的每一天学习生活，珍惜高中这三年最宝贵的时光，珍惜身边每一位同学与老师，祝大家卓然独立，越而胜己。
 
