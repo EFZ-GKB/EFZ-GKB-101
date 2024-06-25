@@ -15,7 +15,7 @@
 
 如果你对本文中的任何内容有所疑问，或希望对101贡献自己的力量，请**联系蒋承容**。
 
-![**WeChat：Jiang-rongrong； QQ：2480728994。**](https://imgse.com/i/pkstVJg)
+![2512蒋承容](https://s2.loli.net/2024/06/25/ylRpw362sXcaBCq.jpg)
 
 **WeChat：Jiang-rongrong； QQ：2480728994。**
 
