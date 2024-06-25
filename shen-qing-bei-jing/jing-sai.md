@@ -12,6 +12,4 @@
 
 历届竞赛成绩：
 
-| 届别  | 竞赛成绩                                                                                                                       |
-| --- | -------------------------------------------------------------------------------------------------------------------------- |
-| 25届 | 英才计划，AMC12 150，AIME 14，iGEM银牌，USABO/BBO金银牌，CCC金银牌，USACO金银牌，IOLC个人和团体金银牌，NOAI银铜牌，物理碗Top100，BPhO金银铜牌，HIR铜奖，CTB国赛全球赛，HiMCM M奖 |
+<table data-full-width="true"><thead><tr><th width="142">届别</th><th width="777">竞赛成绩</th></tr></thead><tbody><tr><td>25届</td><td>英才计划，AMC12 150，AIME 14，iGEM银牌，USABO/BBO金银牌，CCC金银牌，USACO金银牌，IOLC个人和团体金银牌，NOAI银铜牌，物理碗Top100，BPhO金银铜牌，HIR铜奖，CTB国赛全球赛，HiMCM M奖</td></tr></tbody></table>
