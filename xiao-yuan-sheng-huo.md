@@ -6,7 +6,7 @@
 
 6：00 宿舍通电，宿舍楼允许进出
 
-6：30 起床铃《Yesterday once more》打响（音乐链接：[https://c6.y.qq.com/base/fcgi-bin/u?\_\_=IHsBs10](https://c6.y.qq.com/base/fcgi-bin/u?\_\_=IHsBs10)）
+6：30 起床铃《Yesterday once more》打响
 
 7：00 打铃 宿舍关门 除值日生外住宿生需按时出宿舍 不然会被开违纪单
 
