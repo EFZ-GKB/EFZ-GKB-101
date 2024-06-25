@@ -17,7 +17,11 @@
 | B | 81-78 | 3.2 | 3.4 |
 | B- | 77-75 | 3 | 3.2 |
 
-**博雅化**是指将原始总评除以2加50上取整的得分。即：$\text{Final score}=\lceil\dfrac{\text{Initial score}}{2}+50\rceil$。
+**博雅化**是指将原始总评除以2加50上取整的得分。即：
+
+$$
+\text{Final score}=\lceil\dfrac{\text{Initial score}}{2}+50\rceil
+$$
 
 ### GPA组成与计算
 
